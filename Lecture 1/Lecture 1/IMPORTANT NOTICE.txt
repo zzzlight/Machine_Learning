@@ -1,0 +1,20 @@
+Dear students,
+Thank you to join the Machine learning course. In this first lecture, you will be introduced 
+to basic concepts of machine learning, precisely into the concepts of supervised machine learning. 
+Before to start doing your practice work don't forget to join to the practice class 
+in DingTalk to discuss the rules of the course.
+
+The materials of the first lecture are available via this link: https://disk.yandex.ru/d/wkmmTyMC75SXqA?w=1
+You can also download usefull books via this link: https://disk.yandex.ru/d/f1Ipx34KdjRuOw?w=1
+
+Each link will be supported by a video lecture, its text, slides, practice 
+task description and variants (when they will be needed).
+Please, for each practice task read 'practice task desctiption.txt' carefully.
+
+Also, please, notice, that the first lecture was filmed in the previous year and the information 
+on the second slide (General rules of the course) was changed according to the new rules of 
+the course. We will talk about them during the consultation class. Hope that you will enjoy 
+the course and I'll wait for you on the nearest Wednesday to talk about the course.
+
+With the best regards,
+Alexey Platonov
